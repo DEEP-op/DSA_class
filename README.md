@@ -1,2 +1,2 @@
 # DSA_class
-The code which is done in the class
+The code and the thongs  which are learned  in the class
